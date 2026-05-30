@@ -1,0 +1,13 @@
+{
+  "name": "Remix: Vireon - Futuristic Creative Portfolio",
+  "description": "A premium, cinematic personal portfolio for a multi-skilled digital creator and AI specialist.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Chatbot",
+    "Interactive 3D Elements",
+    "Case Study Showcase",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
